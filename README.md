@@ -66,7 +66,7 @@ No third party receives information from the application.
 
 # Permissions
 
-The application is designed to require no sensitive Android permissions.
+The application is designed to require no sensitive device permissions.
 
 If future versions introduce optional features that require additional permissions, this Privacy Policy will be updated before those features are released.
 
