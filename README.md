@@ -91,7 +91,7 @@ Since all application data remains on your own device:
 - We cannot delete it.
 - We cannot share it.
 
-You may remove all locally stored data at any time by You may remove all locally stored data at any time by deleting the application from your device. or uninstalling the application.
+You may remove all locally stored data at any time by deleting the application from your device.
 
 ---
 
