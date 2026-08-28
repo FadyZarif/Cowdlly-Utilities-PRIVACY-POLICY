@@ -10,7 +10,7 @@ Your privacy is important to us. This Privacy Policy explains what information t
 
 # Information We Collect
 
-** does not collect, store, transmit, or share any personal information.**
+** Cowdlly Utilities does not collect, store, transmit, or share any personal information.**
 
 The application:
 
@@ -91,7 +91,7 @@ Since all application data remains on your own device:
 - We cannot delete it.
 - We cannot share it.
 
-You may remove all locally stored data at any time by clearing the application's storage from your device settings or uninstalling the application.
+You may remove all locally stored data at any time by You may remove all locally stored data at any time by deleting the application from your device. or uninstalling the application.
 
 ---
 
@@ -115,7 +115,7 @@ If changes are made, the updated version will be published with a new "Last Upda
 
 If you have any questions about this Privacy Policy, please contact us:
 
-**Developer:** cowdlly
+**Developer:** COWDLLY FOR DIGITAL SOLUTIONS SERVICES
 
 **Email:** cowdlly.ds@gmail.com
 
