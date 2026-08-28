@@ -10,7 +10,7 @@ Your privacy is important to us. This Privacy Policy explains what information t
 
 # Information We Collect
 
-** Cowdlly Utilities does not collect, store, transmit, or share any personal information.**
+**Cowdlly Utilities does not collect, store, transmit, or share any personal information.**
 
 The application:
 
